@@ -12,9 +12,11 @@ projects:
 
  Em um certo idioma, KINEMARTOPHOBIA é escrito como KNIEAMROTPOHBAI, então como
  HILLARIOUS será escrito no mesmo idioma?
+ HLILRAIOUS
 
 __Exemplo:__
 
 ```js
   KINEMARTOPHOBIA → KNIEAMROTPOHBAI
+  
 ```
